@@ -41,7 +41,7 @@ console.log("hello")
         </div> 
         <div className="home">
         
-        <img src={banner} style={{height:'8rem',borderRadius:"5px"}}/>
+        <img src={banner} style={{height:'8rem',borderRadius:"5px",marginBottom:"2rem",marginTop:"2rem"}}/>
        
         <span style={{fontWeight:"bold"}}>Highest Rated</span>
         
