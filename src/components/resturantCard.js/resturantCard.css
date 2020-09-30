@@ -1,0 +1,8 @@
+.res-card {
+    font-weight: bold;
+    height: 12rem;
+    background-color: lightblue;
+    width:8rem;
+    border-radius: 10px;
+    margin-right: 1rem;
+}

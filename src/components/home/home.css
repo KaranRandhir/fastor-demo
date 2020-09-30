@@ -1,0 +1,16 @@
+.resturants {
+    display: flex;
+    overflow-x: hidden;
+ 
+  
+
+
+}
+
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ overflow-x: hidden;
+}
